@@ -8,6 +8,8 @@ setup(
     version="1.0.0",
     author="fish",
     description="test package whl with c++ dll",
+    url="https://github.com/rubyfish/CreateWhlWithDll",
+    license='MIT',
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=find_packages(),
